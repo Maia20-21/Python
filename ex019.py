@@ -5,6 +5,6 @@ a2 = input('Aluno 2: ')
 a3 = input('Aluno 3: ')
 a4 = input('Aluno 4: ')
 
-x = random.random(a1, a2, a3, a4)
+x = random(a1, a2, a3, a4)
 
 print(f'{x} irá apagar o quadro')
